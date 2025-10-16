@@ -1,14 +1,7 @@
-  GNU nano 8.6                                                                                hello.c
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
-printf("Hello, GitHub with C!\n");
-return 0;
+int main() {
+    printf("Hello, GitHub World!\n");
+    printf("Learning Pull Requests now!\n");
+    return 0;
 }
-#include<stdio.h>
-
-int main(){
-printf("Hello, GitHub with C!\n");
-return 0;
-}
-
